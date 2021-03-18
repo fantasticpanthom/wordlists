@@ -1,0 +1,8 @@
+/.bash_history
+/.ssh/
+/.idea/
+/.rediscli_history
+/.svn/entries
+/.svn/wc.db
+/.env
+/~dominik/publications/.svn/entries
