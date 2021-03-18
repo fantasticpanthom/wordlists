@@ -1,0 +1,13 @@
+/admin/help.cgi
+/admin/help.cgi.bak
+/admin/WS_FTP.LOG
+/adovbs.inc
+/confirm.asp.bak 
+/default.asp.bak
+/login.asp.bak 
+/pindex.asp.bak
+/rootlogin.asp.bak
+/rootlogin.asp.old
+/_vti_pvt/service.cnf 
+/include/common.inc
+/WS_FTP.LOG
